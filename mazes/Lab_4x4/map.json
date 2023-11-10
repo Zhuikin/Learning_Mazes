@@ -1,0 +1,111 @@
+{
+    "name": "Lab_4x4",
+    "dim_x": 4,
+    "dim_y": 4,
+    "start": [
+        0,
+        0
+    ],
+    "goal": [
+        3,
+        3
+    ],
+    "cells": [
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 0
+        },
+        {
+            "is_blocked": true,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 2
+        },
+        {
+            "is_blocked": true,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 2
+        },
+        {
+            "is_blocked": true,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 2
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 2
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 3
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 3
+        },
+        {
+            "is_blocked": true,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 3
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 3
+        }
+    ]
+}

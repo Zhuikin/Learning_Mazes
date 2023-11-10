@@ -1,0 +1,399 @@
+{
+    "name": "NoPath_8x8",
+    "dim_x": 8,
+    "dim_y": 8,
+    "start": [
+        0,
+        0
+    ],
+    "goal": [
+        7,
+        7
+    ],
+    "cells": [
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 4,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 5,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 6,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 7,
+            "y": 0
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 4,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 5,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 6,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 7,
+            "y": 1
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 2
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 2
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 2
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 2
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 4,
+            "y": 2
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 5,
+            "y": 2
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 6,
+            "y": 2
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 7,
+            "y": 2
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 3
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 3
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 3
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 3
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 4,
+            "y": 3
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 5,
+            "y": 3
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 6,
+            "y": 3
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 7,
+            "y": 3
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 4
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 4
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 4
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 4
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 4,
+            "y": 4
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 5,
+            "y": 4
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 6,
+            "y": 4
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 7,
+            "y": 4
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 5
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 5
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 5
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 5
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 4,
+            "y": 5
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 5,
+            "y": 5
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 6,
+            "y": 5
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 7,
+            "y": 5
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 6
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 6
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 6
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 6
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 4,
+            "y": 6
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 5,
+            "y": 6
+        },
+        {
+            "is_blocked": true,
+            "hole_chance": 0,
+            "x": 6,
+            "y": 6
+        },
+        {
+            "is_blocked": true,
+            "hole_chance": 0,
+            "x": 7,
+            "y": 6
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 0,
+            "y": 7
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 1,
+            "y": 7
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 2,
+            "y": 7
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 3,
+            "y": 7
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 4,
+            "y": 7
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 5,
+            "y": 7
+        },
+        {
+            "is_blocked": true,
+            "hole_chance": 0,
+            "x": 6,
+            "y": 7
+        },
+        {
+            "is_blocked": false,
+            "hole_chance": 0,
+            "x": 7,
+            "y": 7
+        }
+    ]
+}
