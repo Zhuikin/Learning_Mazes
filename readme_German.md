@@ -1,4 +1,4 @@
-# v 0.6 10.11.2023
+# 10.11.2023
 
 # Pfadsuchen im Labyrint
 Eine Schnittstelle für Agentenbasierte Pfadsuche. 
