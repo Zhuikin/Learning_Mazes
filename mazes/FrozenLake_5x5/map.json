@@ -114,7 +114,7 @@
             "y": 3
         },
         {
-            "is_blocked": false,
+            "is_blocked": true,
             "hole_chance": 0,
             "x": 2,
             "y": 3
@@ -144,7 +144,7 @@
             "y": 4
         },
         {
-            "is_blocked": false,
+            "is_blocked": true,
             "hole_chance": 0,
             "x": 2,
             "y": 4
