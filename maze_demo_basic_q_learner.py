@@ -29,6 +29,10 @@ def flatten(x, y, dim_x):
 
 
 def visualize_qtable(dim_x, dim_y, qtable):
+    """ reforamts the q-table to get a map like representation. 
+        this is specific to this demo, since the mapping of states and actions
+        depends on the setting. 
+    """
     # actions order: left, right, up, down
     value_map = [[0.0 for _ in range(dim_x)] for _ in range(dim_y)]
     count_map = [[0 for _ in range(dim_x)] for _ in range(dim_y)]
