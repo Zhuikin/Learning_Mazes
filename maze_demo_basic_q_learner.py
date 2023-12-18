@@ -6,16 +6,19 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # MAZE_NAME = "Lab_12x10"
-MAZE_NAME = "FrozenLake_5x5"
+# MAZE_NAME = "FrozenLake_5x5"
+MAZE_NAME = "FrozenLake_12x10"
 # number of training runs. Should be appropriate for the size of the lab
 EPISODES = 1000
+# how many steps can each episode take, as a factor
+MAX_STEPS_FACTOR = 10
 
 # reward policy
 REWARD_HOLE = -1.0
 REWARD_WALL = -0.75
-REWARD_GOAL = 1.0
-# how many steps can each episode take, as a factor
-MAX_STEPS_FACTOR = 5
+REWARD_GOAL = 2.0
+REWARD_STEP = -0.1
+
 
 # meta parameters
 ALPHA = 0.5  # learning rate. 1: only believe new info, 0: only old info
@@ -86,7 +89,7 @@ def main():
         qagent.reset_to_start()
         next_episode = False
         for _ in range(max_steps):
-            reward = 0
+            reward = REWARD_STEP
             # get current state and choose action
             state = flatten(qagent.pos_x, qagent.pos_y, dim_x)
             action = ql.epsilon_greedy_action(state)
